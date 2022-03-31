@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	
-	
+	 public static int a=10;
 	@FindBy(id="txtUsername")
 	private WebElement useranme;
 	
