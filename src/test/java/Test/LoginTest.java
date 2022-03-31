@@ -38,6 +38,7 @@ public class LoginTest {
 	
 		 
 			lp.login("Admin", "admin123");
+			//this is a project of maven
 			
 	  }
 	
