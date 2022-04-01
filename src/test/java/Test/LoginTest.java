@@ -12,6 +12,8 @@ import Pages.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginTest {   
+	public static int A;
+	static int B;
 	
 	public static WebDriver driver;
 	LoginPage lp;
